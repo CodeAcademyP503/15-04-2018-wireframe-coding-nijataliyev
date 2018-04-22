@@ -1,0 +1,631 @@
+body{
+    margin:0px;
+    background-color:#953e46;
+}
+#SocialNetwork{
+    width: 100%;
+    height:200px;
+    background-color:#953e46;
+    color:white;
+}
+.container{
+    width: 1150px;
+    height:100%;
+}
+.Social{
+    height:20px;
+    display: inline-block;
+    font-size: 50px;
+    margin: 20px 20px 60px 155px;
+}
+.Searchbox{
+    height:20px;
+    display: inline-block;
+    position: absolute;
+}
+#SocialNetwork .Searchbox input{
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+    box-sizing: border-box;
+    transition: 2s;
+    border:none;
+    outline: none;
+    background: rgb(247, 225, 217);
+    color:white;
+    margin-top: 33px;
+}
+#SocialNetwork .Input{
+    display: inline-block;
+    margin:32px 512px;
+    height: 37px;
+    position: absolute;
+}
+#SocialNetwork .Input i{
+    padding: 10px;
+    background-color: #f4e3cf;
+    color: #b7726a;
+    border: 1px solid #f4e3cf;
+}
+
+.ManLogo{
+    height:20px;
+    margin:32px 637px;
+    display: inline-block;
+    position: absolute;
+}
+#SocialNetwork .ManLogo i{
+    padding: 10px;
+    background-color: #f4e3cf;
+    color: #b7726a;
+}
+#SocialNetwork .ManLogo input{
+    margin-left: 618px;
+    margin-top: 32px;
+    height: 36px;
+    width: 58px;
+    background-color: rgb(247, 225, 217);
+}
+.middle-pos ul 
+{
+    margin: 7px 20px 20px 160px;
+    padding: 0px;
+}
+.middle-pos ul li
+{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.middle-pos ul li a
+{
+   text-decoration: none;
+   font-family: Tahoma;
+   color:white;
+   font-size: 22px;
+}
+
+
+#Videos h2 {
+    position: absolute;
+    margin: -8px 3px 55px 158px;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+#Videos h5{
+    position: absolute;
+    color: whitesmoke;
+    margin: 1px 20px 20px 446px;
+}
+#Videos .item{
+    box-sizing: border-box;
+    width: 28.5%;
+    border: 1px solid black;
+    padding: 250px 12px;
+    padding-bottom: 40px;
+    float: left;
+    margin: 16px 159px;
+    position: absolute;
+    background-color: #f4e3cf;
+    clear: both;
+}
+#Videos .item p{
+    text-align: left;
+    position: absolute;
+    margin:22px -6px;
+    color:#953e46;
+
+}
+
+#Videos .item h6{
+    width: 97px;
+    display: inline-block;
+    position: absolute;
+    margin: 27px 295px;
+    color: #953e46;
+}
+#Vid .two{
+    box-sizing: border-box;
+    width: 15.5%;
+    border: 1px solid black;
+    padding: 107px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: 16px 550px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Vide .two{
+    box-sizing: border-box;
+    width: 15.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: 173px 550px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#v .two{
+    box-sizing: border-box;
+    width: 15.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: 316px 550px;
+    position: absolute;
+}
+#Video .two{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: 316px 361px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Box .two{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: 316px 160px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#People .One h2{
+    position: absolute;
+    color: whitesmoke;
+    margin:-6px 49pc;
+}
+#People .One p{
+    position: absolute;
+    color: whitesmoke;
+    margin: 0px 59pc;
+    display: inline-block;
+    width: 210px;
+}
+#People .two {
+    box-sizing: border-box;
+    width: 7.5%;
+    border: 1px solid black;
+    padding: 57px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: -13px 49pc;
+    position: absolute;
+    background-color: #f4e3cf;
+
+}
+#People .three {
+    box-sizing: border-box;
+    width: 7.5%;
+    border: 1px solid black;
+    padding: 57px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: 54px 49pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#People .four {
+    box-sizing: border-box;
+    width: 7.5%;
+    border: 1px solid black;
+    padding: 57px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: 122px 49pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+
+#People .five{
+    box-sizing: border-box;
+    width: 7.5%;
+    border: 1px solid black;
+    padding: 57px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: 190px 49pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#People .six{
+    box-sizing: border-box;
+    width: 7.5%;
+    border: 1px solid black;
+    padding: 57px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: 258px 49pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+
+#People .seven{
+    box-sizing: border-box;
+    width: 7.5%;
+    border: 1px solid black;
+    padding: 57px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: 326px 49pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#People .line hr {
+    display: inline-block;
+    margin: 20px 48pc;
+    color: white;
+    width: 381px;
+    border:1px solid white;
+}
+#People .lin{
+    display: inline-block;
+    margin: 25pc 48pc;
+    color: white;
+    width: 381px;
+    border:1px solid white;
+}
+    
+#Documents .box{
+    box-sizing: border-box;
+    width: 28.5%;
+    border: 1px solid black;
+    padding: 250px 12px;
+    padding-bottom: 40px;
+    float: left;
+    margin: -336px 159px;
+    position: absolute;
+    background-color: #f4e3cf;
+    clear: both;
+}
+#Documents h2{
+    display: inline-block;
+    position: absolute;
+    margin: -23pc 10pc;
+    color: whitesmoke;
+}
+#Documents p{
+    position: absolute;
+    color: whitesmoke;
+    margin: -364px 30pc;
+    display: inline-block;
+    width: 210px;
+}
+#Documents .four{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: -2pc 159px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Documents .one{
+    box-sizing: border-box;
+    width: 15.5%;
+    border: 1px solid black;
+    padding: 106px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: -336px 550px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Documents .two{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: -2pc 361px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Documents .three{
+    box-sizing: border-box;
+    width: 15.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: -176px 550px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Documents .five{
+    box-sizing: border-box;
+    width: 15.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: -31px 550px;
+    position: absolute;
+}
+#Channel .one h2{
+    position: absolute;
+    color: whitesmoke;
+    margin:-371px 49pc;
+}
+#Channel .one p{
+    position: absolute;
+    color: whitesmoke;
+    margin: -363px 59pc;
+    display: inline-block;
+    width: 210px;
+}
+#Channel .line hr {
+    display: inline-block;
+    margin: -335px 48pc;
+    color: white;
+    width: 381px;
+    border:1px solid white;
+}
+#Channel .two{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: -325px 48pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .three{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: -325px 969px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .four{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: -212px 48pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .five{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: -212px 969px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .six{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: -96px 48pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .seven{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: -96px 969px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .eight{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: 19px 48pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .nine{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: 19px 969px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .ten{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: 134px 48pc;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .eleven{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 99px 2px;
+    padding-bottom: 0px;
+    float: right;
+    margin: 134px 969px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel .Lin hr{
+    margin:246px 768px;
+    color: white;
+    width: 381px;
+    border:1px solid white;
+    display: inline-block;
+
+}
+#Activity h2{
+    position: absolute;
+    color: whitesmoke;
+    margin: -364px 10pc;
+}
+#Activity p{
+    position: absolute;
+    color: whitesmoke;
+    margin: -358px 390px;
+    display: inline-block;
+    width: 210px;
+}
+#Activity .two{
+    box-sizing: border-box;
+    width: 28.5%;
+    border: 1px solid black;
+    padding: 250px 12px;
+    padding-bottom: 40px;
+    float: left;
+    margin: -344px 159px;
+    position: absolute;
+    background-color: #f4e3cf;
+    clear: both;
+}
+#Activity .three{
+    box-sizing: border-box;
+    width: 15.5%;
+    border: 1px solid black;
+    padding: 98px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: -192px 552px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Activity .four{
+    box-sizing: border-box;
+    width: 15.5%;
+    border: 1px solid black;
+    padding: 106px 2px;
+    padding-bottom: 36px;
+    float: right;
+    margin: -344px 552px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Activity .five{
+    box-sizing: border-box;
+    width: 15.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: -41px 552px;
+    position: absolute;
+}
+#Activity .six{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: -41px 159px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Activity .seven{
+    box-sizing: border-box;
+    width: 13.5%;
+    border: 1px solid black;
+    padding: 90px 2px;
+    padding-bottom: 40px;
+    float: right;
+    margin: -41px 360px;
+    position: absolute;
+    background-color: #f4e3cf;
+}
+#Channel hr{
+    margin: 210px 160px;
+    color: white;
+    width: 990px;
+    border: 1px solid white;
+    display: inline-block;
+}
+#Share{
+    margin: -170px 158px;
+}
+#Share .column i{
+    padding: 10px;
+    background-color: #f4e3cf;
+    color: rosybrown;
+}
+#Bottom .nav {
+    float:left;
+    width: 900px;
+}
+#Bottom .nav ul{
+    margin: 208px 20px 20px 157px;
+    padding: 0px;
+}
+#Bottom .nav ul li{
+    list-style-type: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    display:inline-block;
+    color:#f4e3cf;
+}
+#copywrite{
+    margin:240px 0px;
+    position: relative;
+}
+#copywrite .copy i{
+    color: rosybrown;
+    float:left; 
+    margin-left: -745;
+    
+}
+#copywrite .copy span{
+    color: rosybrown;
+    float:left;
+    margin-left: -725;
+
+}
+#copywrite .terms ul{
+    margin: 33px 0px 2px 115px;
+    position: absolute;
+}
+#copywrite .terms ul li{
+    list-style-type: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    display:inline-block;
+    color:#f4e3cf;
+}
+
+
+
